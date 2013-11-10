@@ -52,3 +52,7 @@ Support issues that are particular to the Pivotal-hosted Cloud Foundry public Pa
 
 * [support.cloudfoundry.com](http://support.cloudfoundry.com)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/drakeshs/cf-docs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
